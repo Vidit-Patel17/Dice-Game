@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dice Games</string>
+  <string name="wallet_info">Click to roll the die.\nEvery time you hit a six, you earn five coins.</string>
+  <string name="coins">Coins</string>
+  <string name="zero">0</string>
+  <string name="six_faced_die">Six faced die</string>
+  <string name="launch_two_or_more">Two or more</string>
+  <string name="stop">Stop</string>
+  <string name="wager">Wager</string>
+  <string name="roll">Roll</string>
+  <string name="go">Go</string>
+  <string name="two_alike">2 Alike</string>
+  <string name="three_alike">3 alike</string>
+  <string name="four_alike">4 alike</string>
+  <string name="back">Back</string>
+  <string name="info">Info</string>
+  <string name="heading"> <u>Rules of the Game</u> </string>
+  <string name="details"> If you bet x coins on “2 alike”, you will earn 2x coins on winning or lose 2x coins on losing.\n\nSimilarly, the risk/reward factor is 3x for “3 alike” and 4x for “4 alike” games.\n\nYour wallet should have enough coins to cover any losses based on the wager amount.</string>
+
+</resources>
